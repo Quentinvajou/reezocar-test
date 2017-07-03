@@ -23,7 +23,7 @@ pal = sns.color_palette()
 pd.options.display.max_colwidth = 200
 
 # os.chdir("./Reezocar")
-# os.getcwd()
+os.getcwd()
 
 print("File size :")
 for f in os.listdir('./input'):
